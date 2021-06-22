@@ -1,5 +1,5 @@
 # cursomc
 
-<p align="center"><b>Cadastro de Investimento</b></p>
+<p align="center"><b>Diagrama das entidades</b></p>
  
-![Cadastro](https://github.com/Erika-Skarda/my-invest/blob/main/frontend/src/assets/fullstackweek1.png)
+![Cadastro](https://github.com/Erika-Skarda/cursomc/blob/master/diagrama.png)
